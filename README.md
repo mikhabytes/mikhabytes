@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me  
 - 🎓 **Second-year student** studying Application Development.  
 - 🌱 Currently learning **C#**, **MVC**, **Cloud Development**, **Databases**, **Python**. and **Javascript**.  
-- 💡 I’m interested in **cybersecurity**, **web development** 
+- 💡 I’m interested in **cybersecurity**, **web development** and **game development**
 ---
 
 ### 📫 How to Reach Me  
